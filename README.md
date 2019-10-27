@@ -1,2 +1,5 @@
 # instagram-clone
- instagram clone only html and css
+
+instagram clone only html and css
+
+# Instagram Clone For HTML Study.
