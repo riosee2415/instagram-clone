@@ -6,4 +6,8 @@ instagram clone only html and css
 
 - [x] Header Nav
 - [x] Header
-- [ ] Story
+- [x] Story
+- [x] Main
+- [x] Account
+- [x] Content
+- [x] Footer
