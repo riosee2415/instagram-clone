@@ -1,0 +1,11 @@
+.content {
+  margin-left: 25px;
+}
+
+.content .content__col-1 {
+  margin-bottom: 10px;
+}
+
+.content .content__col-2 .content__col-2-id {
+  font-weight: bold;
+}
